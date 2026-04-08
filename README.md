@@ -1,1 +1,1 @@
-これはジョイスティックを正しく動作させるためzmkのoversamplingを0に編集したzmk-v0.4 [here](これはジョイスティックを正しく動作させるためzmkのoversamplingを0に編集したzmk-v0.3 [here](https://github.com/zmkfirmware/zmk/blob/461f5c832fb8854d87dca54d113d306323697219/app/module/drivers/sensor/battery/battery_nrf_vddh.c#L90)  
+これはジョイスティックを正しく動作させるためzmkのoversamplingを0に編集したzmk-v0.4 [here](https://github.com/hisa222/zmk-v0.4/blob/ci/codeql-analysis-action/app/drivers/sensor/battery_voltage_divider/battery_voltage_divider.c#L175)  
